@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .card{
+    width:28%;
+    border: 3px dashed aqua;
+    background-color:red ;
+  }
+  img {
+    width:100%
+  }
+  
+  .box {
+    display: flex;
+    gap: 15px;
+  }
